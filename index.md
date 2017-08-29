@@ -1,7 +1,5 @@
 <img src="https://github.com/delliotpartners/assets/blob/master/logo.png" style="float:right;" width="48"><br clear="all" />
 
-![Dell Logo](https://github.com/delliotpartners/assets/blob/master/logo.png)
-
 # Dell IOT Solutions Partner Program
 
 ## Self-Certification Guide
