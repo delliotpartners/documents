@@ -1,4 +1,4 @@
-<img src="./logo.png" style="float:right;" width="48"><br clear="all" />
+<img src="assets/logo.png" style="float:right;" width="48"><br clear="all" />
 
 
 # Dell IOT Solutions Partner Program
