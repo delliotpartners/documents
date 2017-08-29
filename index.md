@@ -1,4 +1,4 @@
-<img src="https://github.com/delliotpartners/assets/blob/master/logo.png" alaign="right" width="48"><br clear="all" />
+<img src="https://github.com/delliotpartners/assets/blob/master/logo.png" alig![Dell Logo](https://github.com/delliotpartners/assets/blob/master/logo.png)n="right" width="48"><br clear="all" />
 
 # Dell IOT Solutions Partner Program
 
